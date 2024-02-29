@@ -24,9 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samir123456468&" alt="samir123456468" /></p>
 
-- 😄 Pronouns: Samir...
-- ⚡ Fun fact: ...
-
 <!---
 samir123456468/samir123456468 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
